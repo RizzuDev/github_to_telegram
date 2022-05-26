@@ -1,0 +1,1 @@
+{"id":"40a757e0-e5e7-430a-91be-c6d5f6a9ce0e","space":23641,"runtime":"python3.9","name":"github_to_telegram","path":"zt7byg","project":"a0k4g0iq","account":"144798365827","region":"eu-central-1","deps":["fastapi","python-dotenv","httpx"],"envs":null,"public":true,"log_level":"debug","cron":""}
