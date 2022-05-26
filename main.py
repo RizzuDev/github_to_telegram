@@ -15,13 +15,7 @@ PROJECT_NAME = os.getenv('PROJECT_NAME')
 
 
 
-@app.get("/{name}")
-async def helloname(name:str):
-    """
-    Returns a Hello to the User with a wave emoji
-    """
-    """"""
-    return f"Hello {GROUP_ID} 👋"
+
 
 
 async def sendTgMessage(message: str):
